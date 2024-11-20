@@ -35,6 +35,9 @@ jobs:
           # Defaults, added for clarity:
           cabal-version: 'latest'
 
+      - name: Install system dependencies
+        run: sudo apt install upx
+
       - name: Configure the build
         run: |
           cabal configure --enable-tests --enable-benchmarks --disable-documentation
@@ -76,7 +79,8 @@ jobs:
           cabal build cdda-dear-diary-cli --enable-executable-stripping --enable-library-stripping -O2
 
           mkdir -p cdd-cli-app
-          cp "$(cabal list-bin cdda-dear-diary-cli)" cdd-cli-app/cdda-cli
+          cp "$(cabal list-bin cdda-dear-diary-cli)" cdd-cli-app/cdd-cli
+          upx cdd-cli-app/cdd-cli
           cp README.md cdd-cli-app/
           cp LICENSE cdd-cli-app/
           cp CHANGELOG.md cdd-cli-app/

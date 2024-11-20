@@ -12,7 +12,7 @@ by reading my own gameplay diaries. lol).
 Usage: cdd-cli DIARY_FILENAME [-o|--output-file ARG] [-c|--compact] 
                [-m|--extended-new-missions ARG]
 
-  Convert CDDA's diary file to JSON format.
+  Convert CDDA's diary file to JSON format
 
 Available options:
   DIARY_FILENAME           Diary file location
@@ -20,8 +20,8 @@ Available options:
                            output file instead of printing to STDOUT.
   -c,--compact             Output JSON in compact format
   -m,--extended-new-missions ARG
-                           Extra new missions to support. Example: "Find a cat,
-                           Shoot A Star, Pat the dog"
+                           Extra new missions to support. Example: "Find a
+                           cat,Hug A Star,Pat the dog"
   -h,--help                Show this help text
 
 
