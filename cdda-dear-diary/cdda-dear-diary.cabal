@@ -1,0 +1,95 @@
+cabal-version:       3.0
+name:                cdda-dear-diary
+version:             0.1.0
+synopsis:            A library to parse CDDA's diary format.
+description:
+    A library to parse CDDA's diary format.
+    See README.md for more details.
+license:             BSD-3-Clause
+license-file:        LICENSE
+author:              cloudyluna
+maintainer:          cloudyluna
+copyright:           2024 cloudyluna
+category:            Data
+build-type:          Simple
+extra-doc-files:     README.md
+                     CHANGELOG.md
+tested-with:         GHC == 9.6.6
+
+common common-options
+  build-depends:       base >= 4.18.2.1,
+                       text,
+                       mtl,
+                       megaparsec >= 9.6 && < 11,
+                       containers,
+
+  ghc-options:         -Wall
+                       -Wcompat
+                       -Widentities
+                       -Wincomplete-uni-patterns
+                       -Wincomplete-record-updates
+                       -Wredundant-constraints
+                       -Wnoncanonical-monad-instances
+  if impl(ghc >= 8.2)
+    ghc-options:       -fhide-source-paths
+  if impl(ghc >= 8.4)
+    ghc-options:       -Wmissing-export-lists
+                       -Wpartial-fields
+  if impl(ghc >= 8.8)
+    ghc-options:       -Wmissing-deriving-strategies
+                       -fwrite-ide-info
+                       -hiedir=.hie
+  if impl(ghc >= 8.10)
+    ghc-options:       -Wunused-packages
+
+  default-language:    GHC2021
+  default-extensions:  OverloadedStrings
+                       ConstraintKinds
+                       DeriveGeneric
+                       GeneralizedNewtypeDeriving
+                       InstanceSigs
+                       KindSignatures
+                       LambdaCase
+                       ScopedTypeVariables
+                       StandaloneDeriving
+                       TupleSections
+                       TypeApplications
+                       ViewPatterns
+                       DataKinds
+                       DuplicateRecordFields
+                       ImportQualifiedPost
+                       NoFieldSelectors
+                       OverloadedLabels
+
+library
+  import:              common-options
+  hs-source-dirs:      src
+  exposed-modules:     CddaDearDiary
+                       CddaDearDiary.Types
+                       CddaDearDiary.Internal
+                       CddaDearDiary.Internal.Parser.Single
+                       CddaDearDiary.Internal.Parser.Entry
+                       CddaDearDiary.Internal.Parser.Body
+
+
+test-suite cdda-dear-diary-test
+  import:              common-options
+  type:                exitcode-stdio-1.0
+  hs-source-dirs:      test
+  main-is:             Spec.hs
+  other-modules:       Expectations
+  build-depends:       cdda-dear-diary,
+                       text,
+                       bytestring,
+                       filepath,
+                       tasty,
+                       tasty-golden,
+                       tasty-hspec,
+                       hspec,
+                       hspec-megaparsec,
+                       megaparsec,
+
+  ghc-options:         -threaded
+                       -rtsopts
+                       -with-rtsopts=-N
+

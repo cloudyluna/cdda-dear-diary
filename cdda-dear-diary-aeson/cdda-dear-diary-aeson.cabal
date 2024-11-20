@@ -1,0 +1,65 @@
+cabal-version:       3.0
+name:                cdda-dear-diary-aeson
+version:             0.1.0
+synopsis:            Aeson parser for cdda-dear-diary
+description:
+    Aeson parser for cdda-dear-diary.
+    See README.md for more details.
+license:             BSD-3-Clause
+license-file:        LICENSE
+author:              cloudyluna
+maintainer:          cloudyluna
+copyright:           2024 cloudyluna
+category:            Data
+build-type:          Simple
+extra-doc-files:     README.md
+                     CHANGELOG.md
+tested-with:         GHC == 9.6.6
+
+common common-options
+  build-depends:       base >= 4.18.2.1,
+                       cdda-dear-diary,
+                       aeson,
+
+  ghc-options:         -Wall
+                       -Wcompat
+                       -Widentities
+                       -Wincomplete-uni-patterns
+                       -Wincomplete-record-updates
+                       -Wredundant-constraints
+                       -Wnoncanonical-monad-instances
+  if impl(ghc >= 8.2)
+    ghc-options:       -fhide-source-paths
+  if impl(ghc >= 8.4)
+    ghc-options:       -Wmissing-export-lists
+                       -Wpartial-fields
+  if impl(ghc >= 8.8)
+    ghc-options:       -Wmissing-deriving-strategies
+                       -fwrite-ide-info
+                       -hiedir=.hie
+  if impl(ghc >= 8.10)
+    ghc-options:       -Wunused-packages
+
+  default-language:    Haskell2010
+  default-extensions:  ConstraintKinds
+                       DeriveGeneric
+                       GeneralizedNewtypeDeriving
+                       InstanceSigs
+                       KindSignatures
+                       LambdaCase
+                       ScopedTypeVariables
+                       StandaloneDeriving
+                       TupleSections
+                       TypeApplications
+                       ViewPatterns
+                       DataKinds
+                       DuplicateRecordFields
+                       ImportQualifiedPost
+                       NoFieldSelectors
+                       OverloadedLabels
+
+library
+  import:              common-options
+  hs-source-dirs:      src
+  exposed-modules:     CddaDearDiary.Aeson
+

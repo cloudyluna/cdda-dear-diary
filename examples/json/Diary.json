@@ -1,0 +1,1667 @@
+{
+    "entries": [
+        {
+            "body": {
+                "activeMissions": {
+                    "contents": [
+                        "Find some cosplay suits",
+                        "Faction succession"
+                    ],
+                    "tag": "Initiation"
+                },
+                "mutations": {
+                    "contents": [
+                        "Open Perk Menu",
+                        "Eye color: gray",
+                        "Quick",
+                        "Bookworm",
+                        "Fast Reflexes",
+                        "Sociable",
+                        "Good Hearing",
+                        "Outdoorsman",
+                        "Masochist",
+                        "Hair: brown, ponytail",
+                        "Skin tone: light",
+                        "Packmule",
+                        "Künstler",
+                        "Fast Learner",
+                        "Optimist",
+                        "Pain Resistant",
+                        "Night Vision",
+                        "Pretty"
+                    ],
+                    "tag": "Initiation"
+                },
+                "note": "THE WORLD HAS GONE NUTS.\n\nLAWS ARE NO MORE.\n\nI have to fend myself off from the monsters...and \nI think the humans are far scarier than those.\n\nWho do I trust??\n\n\nWish me luck.\n\n\n\n",
+                "proficiencies": {
+                    "contents": [
+                        "Lockpicking",
+                        "Wound Care",
+                        "Driving",
+                        "Food Preparation",
+                        "Garment Closures",
+                        "Principles of Leatherworking",
+                        "Pottery",
+                        "Pottery Glazing"
+                    ],
+                    "tag": "Initiation"
+                },
+                "skills": {
+                    "contents": {
+                        "appliedScience": 1,
+                        "archery": 1,
+                        "athletics": 2,
+                        "bashingWeapons": 1,
+                        "computers": 1,
+                        "cuttingWeapons": 1,
+                        "devices": 1,
+                        "electronics": 1,
+                        "fabrication": 2,
+                        "foodHandling": 1,
+                        "healthCare": 2,
+                        "marksmanship": 2,
+                        "mechanics": 1,
+                        "piercingWeapons": 1,
+                        "rifles": 3,
+                        "social": 1,
+                        "survival": 2,
+                        "tailoring": 1,
+                        "vehicles": 3
+                    },
+                    "tag": "Initiation"
+                },
+                "stats": {
+                    "contents": {
+                        "dexterity": 12,
+                        "intelligence": 12,
+                        "perception": 12,
+                        "strength": 14
+                    },
+                    "tag": "Initiation"
+                }
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 8,
+                    "minute": 2,
+                    "second": 25
+                },
+                "year": 1
+            },
+            "index": 1
+        },
+        {
+            "body": {
+                "gainedMutation": {
+                    "contents": [
+                        "no skill rust"
+                    ],
+                    "tag": "Update"
+                },
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 16,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 7,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "decayed zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 5,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "Z-9",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 1,
+                            "name": "tough zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "petrified person",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "gawky guardian",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI just fought a swarm of zombies. Small and big. \nThey were though but I managed.\n\nI hope I can make it out.\n\nI just need to fight.\n\nI need to.\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "marksmanship": {
+                            "from": 2,
+                            "to": 3
+                        },
+                        "survival": {
+                            "from": 2,
+                            "to": 3
+                        }
+                    },
+                    "tag": "Update"
+                },
+                "stats": {
+                    "contents": {
+                        "Strength": {
+                            "from": 14,
+                            "to": 25
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 10,
+                    "minute": 18,
+                    "second": 2
+                },
+                "year": 1
+            },
+            "index": 2,
+            "lastWrittenTime": {
+                "hour": 2,
+                "minute": 15
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 2,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "lostMutation": {
+                    "contents": [
+                        "no skill rust"
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI found a little shack of some kind.\n\nAlong the way, I encountered a shopping cart. So \nmy back will be relief of the loot burden.\n\nI feel a bit better now. I hope this will last.\n\n- Eden\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 12,
+                    "minute": 10,
+                    "second": 30
+                },
+                "year": 1
+            },
+            "index": 3,
+            "lastWrittenTime": {
+                "hour": 1,
+                "minute": 52
+            }
+        },
+        {
+            "body": {
+                "note": "Dear diary,\n\nI saw a group of beavers today.\n\nI wish I would've give a dam, but no, so I moved \non.\n\n- Eden\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 13,
+                    "minute": 11,
+                    "second": 20
+                },
+                "year": 1
+            },
+            "index": 4,
+            "lastWrittenTime": {
+                "hour": 1,
+                "minute": 0
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 1,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie cop",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral human",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI was looting an abandoned motel.\n\nPlace doesn't seems too shabby, other than the two\nswimming zombies.\n\nGoodness, I think that was my first\nencounter with a zombie dressed with hard-plates \nall over.\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "devices": {
+                            "from": 1,
+                            "to": 2
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 14,
+                    "minute": 44,
+                    "second": 37
+                },
+                "year": 1
+            },
+            "index": 5,
+            "lastWrittenTime": {
+                "hour": 1,
+                "minute": 33
+            }
+        },
+        {
+            "body": {
+                "note": "Dear diary,\n\nI've found a large compound of some kind.\n\nWeird thing is..I didn't see any critters \nwhatsoever.\n\nI'll investigate.\n\n- Eden\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 15,
+                    "minute": 45,
+                    "second": 42
+                },
+                "year": 1
+            },
+            "index": 6,
+            "lastWrittenTime": {
+                "hour": 1,
+                "minute": 1
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 2,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "oversized moth fly",
+                            "symbol": "y"
+                        },
+                        {
+                            "count": 4,
+                            "name": "American crows",
+                            "symbol": "v"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nthat freaking moth WAS HUGE.\n\n- Eden\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 61,
+                "season": "Spring",
+                "time": {
+                    "hour": 22,
+                    "minute": 23,
+                    "second": 4
+                },
+                "year": 1
+            },
+            "index": 7,
+            "lastWrittenTime": {
+                "hour": 6,
+                "minute": 37
+            }
+        },
+        {
+            "body": {
+                "newMissions": {
+                    "contents": [
+                        "Find Relic",
+                        "Kill Jabberwock",
+                        "Find Inhaler",
+                        "Find Antibiotics"
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nIt was a logging facility with survivors.\n\nThey aren't really friendly though.\n\nI gotta leave, quickly.\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "appliedScience": {
+                            "from": 1,
+                            "to": 0
+                        },
+                        "archery": {
+                            "from": 1,
+                            "to": 0
+                        },
+                        "computers": {
+                            "from": 1,
+                            "to": 0
+                        },
+                        "electronics": {
+                            "from": 1,
+                            "to": 0
+                        },
+                        "mechanics": {
+                            "from": 1,
+                            "to": 0
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 62,
+                "season": "Spring",
+                "time": {
+                    "hour": 6,
+                    "minute": 50,
+                    "second": 5
+                },
+                "year": 1
+            },
+            "index": 8,
+            "lastWrittenTime": {
+                "hour": 8,
+                "minute": 27
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 1,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie technicians",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "deranged axemen",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral mechanic",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "wild turkey",
+                            "symbol": "v"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "newMissions": {
+                    "contents": [
+                        "Reach Refugee Center"
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI visited an evac shelter earlier.\n\nIt got overan by the zeds.\n\nWhat the hell happened?\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "computers": {
+                            "from": 0,
+                            "to": 1
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 62,
+                "season": "Spring",
+                "time": {
+                    "hour": 8,
+                    "minute": 32,
+                    "second": 23
+                },
+                "year": 1
+            },
+            "index": 9,
+            "lastWrittenTime": {
+                "hour": 1,
+                "minute": 42
+            }
+        },
+        {
+            "body": {
+                "gainedMutation": {
+                    "contents": [
+                        "Sharper"
+                    ],
+                    "tag": "Update"
+                },
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 20,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "crawling zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 8,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 6,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "hazmat zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "swimmer zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "coyotes",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 11,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie medic",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "firefighter zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "SWAT zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "futile fighter",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 25,
+                            "name": "zombie miners",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI took over a town with a an auto-rifle\nand a katana.\n\n\nWell, it's like a residence actually.\n\nBut it was..whew.\n\nI'm gonna go read a book now.\n\n- Eden\n\n\n\n",
+                "proficiencies": {
+                    "contents": [
+                        "Gross Anatomy"
+                    ],
+                    "tag": "Update"
+                },
+                "skills": {
+                    "contents": {
+                        "foodHandling": {
+                            "from": 1,
+                            "to": 2
+                        },
+                        "rifles": {
+                            "from": 3,
+                            "to": 4
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 62,
+                "season": "Spring",
+                "time": {
+                    "hour": 16,
+                    "minute": 44,
+                    "second": 38
+                },
+                "year": 1
+            },
+            "index": 10,
+            "lastWrittenTime": {
+                "hour": 8,
+                "minute": 12
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 2,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI made some good food.\n\nJust wanted to share.\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "melee": {
+                            "from": 0,
+                            "to": 1
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 63,
+                "season": "Spring",
+                "time": {
+                    "hour": 4,
+                    "minute": 49,
+                    "second": 17
+                },
+                "year": 1
+            },
+            "index": 11,
+            "lastWrittenTime": {
+                "hour": 12,
+                "minute": 4
+            }
+        },
+        {
+            "body": {
+                "note": "Dear diary,\n\nI made a short bow from scratch!\n\n- Eden\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "computers": {
+                            "from": 1,
+                            "to": 0
+                        },
+                        "fabrication": {
+                            "from": 2,
+                            "to": 3
+                        },
+                        "foodHandling": {
+                            "from": 2,
+                            "to": 3
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 64,
+                "season": "Spring",
+                "time": {
+                    "hour": 12,
+                    "minute": 26,
+                    "second": 24
+                },
+                "year": 1
+            },
+            "index": 12,
+            "lastWrittenTime": {
+                "day": 1,
+                "hour": 7,
+                "minute": 37
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 9,
+                            "name": "slimes",
+                            "symbol": "O"
+                        },
+                        {
+                            "count": 1,
+                            "name": "big slime",
+                            "symbol": "O"
+                        },
+                        {
+                            "count": 30,
+                            "name": "small slimes",
+                            "symbol": "o"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI'm going SW now.\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "piercingWeapons": {
+                            "from": 1,
+                            "to": 0
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 65,
+                "season": "Spring",
+                "time": {
+                    "hour": 0,
+                    "minute": 48,
+                    "second": 11
+                },
+                "year": 1
+            },
+            "index": 13,
+            "lastWrittenTime": {
+                "hour": 12,
+                "minute": 21
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 92,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "crawling zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 19,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie soldiers",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 14,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 14,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie technicians",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "hazmat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "Z-9s",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "oversized cellar spider",
+                            "symbol": "s"
+                        },
+                        {
+                            "count": 16,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 10,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie medics",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 5,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "firefighter zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "SWAT zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral troglobite",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "wild turkeys",
+                            "symbol": "v"
+                        },
+                        {
+                            "count": 1,
+                            "name": "cuspated dog",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 2,
+                            "name": "cunning ferals",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\n\nWtf was that.\n\n\n\n\n",
+                "proficiencies": {
+                    "contents": [
+                        "Principles of Zombie Biology"
+                    ],
+                    "tag": "Update"
+                },
+                "skills": {
+                    "contents": {
+                        "cuttingWeapons": {
+                            "from": 1,
+                            "to": 2
+                        },
+                        "devices": {
+                            "from": 2,
+                            "to": 3
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 66,
+                "season": "Spring",
+                "time": {
+                    "hour": 11,
+                    "minute": 45,
+                    "second": 37
+                },
+                "year": 1
+            },
+            "index": 14,
+            "lastWrittenTime": {
+                "day": 1,
+                "hour": 10,
+                "minute": 57
+            }
+        },
+        {
+            "body": {
+                "gainedMutation": {
+                    "contents": [
+                        "Stronger"
+                    ],
+                    "tag": "Update"
+                },
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 64,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "crawling zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 11,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 5,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 11,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 1,
+                            "name": "rot-weiler",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 7,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zapper zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "hazmat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "swimmer zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral pigeon",
+                            "symbol": "v"
+                        },
+                        {
+                            "count": 3,
+                            "name": "Z-9s",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 8,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 5,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 4,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "firefighter zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 5,
+                            "name": "SWAT zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "scarred zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "house sparrow",
+                            "symbol": "v"
+                        },
+                        {
+                            "count": 1,
+                            "name": "lashing zombie",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Whew.\n\n\n\n",
+                "npcKilled": {
+                    "contents": [
+                        {
+                            "count": 1,
+                            "name": "Ai Sylvia",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "skills": {
+                    "contents": {
+                        "marksmanship": {
+                            "from": 3,
+                            "to": 4
+                        },
+                        "melee": {
+                            "from": 1,
+                            "to": 2
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 66,
+                "season": "Spring",
+                "time": {
+                    "hour": 15,
+                    "minute": 40,
+                    "second": 12
+                },
+                "year": 1
+            },
+            "index": 15,
+            "lastWrittenTime": {
+                "hour": 3,
+                "minute": 54
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 39,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "crawling zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 5,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "swimmer zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "prisoner zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "fat prisoner zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "tough prisoner zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 10,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "cicada nymph",
+                            "symbol": "c"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie hunter",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "boomer",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "petrified persons",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 2,
+                            "name": "gawky guardians",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI found a friend.\n\nHis name is Gerard Shepherd.\n\nNow I have someone to watch my back!\n\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 67,
+                "season": "Spring",
+                "time": {
+                    "hour": 16,
+                    "minute": 45,
+                    "second": 38
+                },
+                "year": 1
+            },
+            "index": 16,
+            "lastWrittenTime": {
+                "day": 1,
+                "hour": 1,
+                "minute": 5
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 78,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "crawling zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 16,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 7,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "horses",
+                            "symbol": "H"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 14,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 1,
+                            "name": "rot-weilers",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 16,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zapper zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "mallard",
+                            "symbol": "v"
+                        },
+                        {
+                            "count": 2,
+                            "name": "Z-9s",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie medics",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "pig",
+                            "symbol": "p"
+                        },
+                        {
+                            "count": 1,
+                            "name": "piglet",
+                            "symbol": "p"
+                        },
+                        {
+                            "count": 1,
+                            "name": "deer",
+                            "symbol": "D"
+                        },
+                        {
+                            "count": 7,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "firefighter zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "Canada geese",
+                            "symbol": "v"
+                        },
+                        {
+                            "count": 2,
+                            "name": "cicada nymphs",
+                            "symbol": "c"
+                        },
+                        {
+                            "count": 3,
+                            "name": "painted turtles",
+                            "symbol": "o"
+                        },
+                        {
+                            "count": 1,
+                            "name": "grabber zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "grappler zombie",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "futile fighters",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "panicked person",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 2,
+                            "name": "feral cops",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Dear diary,\n\nI'm stuck inside a Church bell tower.\n\nI'm gonnna fight my way out.\n\nThis may be the last page I've written.\n\nGood luck.\n\n\n\n"
+            },
+            "dateTime": {
+                "day": 68,
+                "season": "Spring",
+                "time": {
+                    "hour": 17,
+                    "minute": 47,
+                    "second": 31
+                },
+                "year": 1
+            },
+            "index": 17,
+            "lastWrittenTime": {
+                "day": 1,
+                "hour": 1,
+                "minute": 1
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 2,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie technicians",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "I made it out!\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "handguns": {
+                            "from": 0,
+                            "to": 1
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 68,
+                "season": "Spring",
+                "time": {
+                    "hour": 18,
+                    "minute": 28,
+                    "second": 15
+                },
+                "year": 1
+            },
+            "index": 18,
+            "lastWrittenTime": {
+                "minute": 40
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 47,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 22,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombie soldiers",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 16,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "hazmat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "swimmer zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 12,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "mi-go",
+                            "symbol": "&"
+                        },
+                        {
+                            "count": 2,
+                            "name": "scorched zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "It has been over a week!\n\nWohoo!\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "handguns": {
+                            "from": 1,
+                            "to": 2
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 69,
+                "season": "Spring",
+                "time": {
+                    "hour": 7,
+                    "minute": 27,
+                    "second": 49
+                },
+                "year": 1
+            },
+            "index": 19,
+            "lastWrittenTime": {
+                "hour": 12,
+                "minute": 59
+            }
+        },
+        {
+            "body": {
+                "kills": {
+                    "contents": [
+                        {
+                            "count": 62,
+                            "name": "zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "crawling zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 19,
+                            "name": "fat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 11,
+                            "name": "decayed zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 4,
+                            "name": "zombie cops",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 2,
+                            "name": "zombie dogs",
+                            "symbol": "d"
+                        },
+                        {
+                            "count": 9,
+                            "name": "zombie children",
+                            "symbol": "z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "hazmat zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie runners",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "oversized wasp",
+                            "symbol": "a"
+                        },
+                        {
+                            "count": 2,
+                            "name": "feral mechanics",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 7,
+                            "name": "tough zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 3,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 5,
+                            "name": "feral humans",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 3,
+                            "name": "zombie medics",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 6,
+                            "name": "brainless zombies",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "zombie hunters",
+                            "symbol": "Z"
+                        },
+                        {
+                            "count": 1,
+                            "name": "cunning ferals",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "panicked persons",
+                            "symbol": "@"
+                        },
+                        {
+                            "count": 1,
+                            "name": "feral cops",
+                            "symbol": "@"
+                        }
+                    ],
+                    "tag": "Update"
+                },
+                "note": "Im out of that town.\n\nNow i'm by a dairy farm.\n\nGonna chill for a bit.\n\n\n\n",
+                "skills": {
+                    "contents": {
+                        "bashingWeapons": {
+                            "from": 1,
+                            "to": 2
+                        }
+                    },
+                    "tag": "Update"
+                }
+            },
+            "dateTime": {
+                "day": 69,
+                "season": "Spring",
+                "time": {
+                    "hour": 14,
+                    "minute": 48,
+                    "second": 40
+                },
+                "year": 1
+            },
+            "index": 20,
+            "lastWrittenTime": {
+                "hour": 7,
+                "minute": 20
+            }
+        }
+    ],
+    "totalIndexes": 20
+}
