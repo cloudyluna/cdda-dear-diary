@@ -36,6 +36,8 @@ import Options.Applicative (
     value,
     (<**>),
  )
+import System.Exit (ExitCode (ExitFailure), exitWith)
+import System.IO (stderr)
 
 
 main :: IO ()
@@ -50,12 +52,14 @@ main = handleCliOptions =<< customExecParser cliPrefs cliOpts
 
 handleCliOptions :: CliOptions -> IO ()
 handleCliOptions options@(MkCliOptions filename outputFilename _ _) = do
-    when (null filename) $ error "Diary file input cannot be empty string"
+    when (null filename) $ do
+        TLIO.hPutStrLn stderr "Diary file input cannot be an empty string"
+        exitWith $ ExitFailure 1
 
     source <- tryParse options <$> T.readFile filename
     case outputFilename of
         (_ : _) -> TLIO.writeFile outputFilename source
-        _empty -> TLIO.putStrLn source
+        _empty -> TLIO.putStr source
 
 
 data CliOptions = MkCliOptions
