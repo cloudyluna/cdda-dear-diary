@@ -1,7 +1,7 @@
 name: Test
 on:
   push:
-    branches: [main, dev]
+    branches: [main]
   pull_request:
     branches: [main]
 
@@ -31,7 +31,7 @@ jobs:
         with:
           ghc-version: ${{ matrix.ghc-version }}
           # Defaults, added for clarity:
-          cabal-version: 'latest'
+          cabal-version: '3.12'
 
       - name: Configure the build
         run: |

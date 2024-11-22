@@ -32,14 +32,13 @@ import Text.Megaparsec.Stream (TraversableStream, VisualStream)
 Caveat: currently `newMissions` key depends on 'CddaDearDiary.Internal.Parser.Body.allowedMissions'.
 
 If your diary contains mission names that are not listed in that list, then this
-function will most likely ended up generating garbled data format.
-
-This may get fixed in future versions when I figure how to do this robustly
-or if when `New missions:` raw text format will have a proper /ending/ indicator.
+function will most likely ended up generating garbled data format. Though, you can extend
+this with 'extendedNewMissions' list.
 
 Arguments:
 
-  * Filename - /The file is only used in error messages and may be the empty string./
+  * Missions -/Additional new missions you would like to support./
+  * Filename - /The file is only used in error messages and may be an empty string./
   * Source - /The actual diary source text./
 
 
