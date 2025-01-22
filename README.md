@@ -2,6 +2,8 @@
 
 [![BSD-3-Clause license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 
+Currently broken due to the discovery of https://github.com/cloudyluna/cdda-dear-diary/issues/5.
+
 A personal and very simple CLI tool to parse CDDA's diary format and convert to JSON.
 
 Note that I'm just doing this to explore CDDA diary format (idk what's the spec, so I'm just parsing them
